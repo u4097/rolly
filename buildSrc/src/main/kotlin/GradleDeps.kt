@@ -4,7 +4,7 @@ object Release {
 }
 
 object ApplicationId {
-	const val id = "com.oleg.miruki"
+	const val id = "com.oleg.rolly"
 }
 
 object Android {
